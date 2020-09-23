@@ -18,3 +18,4 @@ class Calculator:
         for number in self.numbers:
             result = result * number
         return result
+    #added comment
